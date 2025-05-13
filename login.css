@@ -1,0 +1,25 @@
+body{
+    background-color: aquamarine;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+}
+
+.login{
+    background-color: beige;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#username{
+    width: 200px; 
+}
+
+#password{
+    width: 200px;
+}
+
+button{
+    width: 200px;
+}
